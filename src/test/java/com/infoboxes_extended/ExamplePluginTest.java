@@ -1,4 +1,4 @@
-package com.example;
+package com.infoboxes_extended;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

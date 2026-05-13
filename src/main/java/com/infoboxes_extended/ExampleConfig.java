@@ -1,10 +1,10 @@
-package com.example;
+package com.infoboxes_extended;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup("example")
+@ConfigGroup("infoboxes_extended")
 public interface ExampleConfig extends Config
 {
 	@ConfigItem(
